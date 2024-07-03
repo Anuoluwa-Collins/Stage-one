@@ -8,7 +8,6 @@
             margin: 10px;
             border: 1px solid #4b4242;
             margin-bottom: 20px;
-            align-items: center;
         }
         h1{
             align-self: center;
@@ -27,10 +26,4 @@
         .links a {
             display: block;
             margin-bottom: 10px;
-        }
-        .bottom{
-            width: 100%;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
         }
