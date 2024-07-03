@@ -1,6 +1,7 @@
        body {
             display: flex;
             flex-direction: column;
+            margin: 25px;
         }
         .container {
             padding: 20px;
@@ -8,6 +9,9 @@
             border: 1px solid #4b4242;
             margin-bottom: 20px;
             align-items: center;
+        }
+        h1{
+            align-self: center;
         }
         li{
             list-style-type: square;
